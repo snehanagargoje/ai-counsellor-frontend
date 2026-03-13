@@ -1,5 +1,5 @@
 website link :https://ai-counsellor-frontend.onrender.com/
-
+#note Users log in using their name and email, access the AI Counsellor interface, and share their career concerns. The system analyzes the user's emotion and interests and generates personalized career advice using backend AI logic.
 
 
 # React + Vite
