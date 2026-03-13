@@ -1,6 +1,15 @@
 website link :https://ai-counsellor-frontend.onrender.com/
-#note Users log in using their name and email, access the AI Counsellor interface, and share their career concerns. The system analyzes the user's emotion and interests and generates personalized career advice using backend AI logic.
 
+The frontend provides an interactive interface where users can access the AI Career Counsellor system.
+
+Working Flow
+The user first opens the application and enters their name and email to log in.
+After logging in, the user can click on “AI Counsellor” to start the career guidance process.
+The user then shares their career confusion, interests, or thoughts in the input box.
+The system analyzes the user's emotion and career interest from the input.
+The request is sent to the backend API, where AI logic processes the data.
+Based on the analysis, the system generates personalized career advice and university suggestions.
+The AI-generated response is displayed instantly on the screen for the user.
 
 # React + Vite
 
